@@ -42,4 +42,3 @@ import RNAlarm from 'react-native-alarm';
 // TODO: What to do with the module?
 RNAlarm;
 ```
-  
